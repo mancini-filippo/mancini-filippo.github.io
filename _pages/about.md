@@ -29,3 +29,10 @@ I also teach philosophy, logic, and critical thinking, and serve as Treasurer an
 
 **Contact:** [filippo.mancini@iusspavia.it](mailto:filippo.mancini@iusspavia.it)  
 **ORCID:** [0000-0002-1061-7982](https://orcid.org/0000-0002-1061-7982)
+
+<div class="social">
+  <div class="contact-icons">
+    <a href="mailto:filippo.mancini@iusspavia.it" title="Email" aria-label="Email Filippo Mancini"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
+    <a href="https://philpeople.org/profiles/filippo-mancini" title="PhilPeople" aria-label="Filippo Mancini on PhilPeople"><i class="ai ai-philpapers" aria-hidden="true"></i></a>
+  </div>
+</div>

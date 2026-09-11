@@ -14,13 +14,13 @@ Updated 9 September 2026.
 **October 2025–September 2028 · Fixed-term Assistant Professor (RTD-A)**  
 School of Advanced Studies IUSS Pavia. FIS project _Severe Uncertainty: Decisions, Evidence and Probability_ (DeEP).
 
-**March 2024–September 2025 · Postdoctoral Research Fellow**  
+**March 2024–September 2025 · Postdoctoral Research Fellow (Assegnista)**  
 University of Eastern Piedmont. _Conceptual Negotiation: Metaphysical and Logical Aspects_. Supervisor: Samuele Iaquinto.
 
-**March 2023–February 2024 · Postdoctoral Researcher**  
+**March 2023–February 2024 · Postdoctoral Researcher (Wissenschaftlicher Mitarbeiter)**  
 University of Bonn. _Abductive Methodology in the Philosophy of Logic_. Supervisor: Elke Brendel.
 
-**April 2022–February 2023 · Postdoctoral Research Fellow**  
+**April 2022–February 2023 · Postdoctoral Research Fellow (Assegnista)**  
 University of Padua. _Logic for Polarization of Irrational Collective Beliefs_. Supervisor: Massimiliano Carrara.
 
 ## Education

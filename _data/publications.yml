@@ -18,7 +18,7 @@
   title: Modeling Radical Indeterminacy in Branching Time Semantics
   venue: Logic and Philosophy of Time, 7(1), 1–20.
   type: Journal article
-  url: https://doi.org/10.54337/lpt.v7i1.10812
+  url: https://journals.aau.dk/index.php/logic/article/view/10812
   link_label: DOI
 - year: "2026"
   authors: Carrara, M., Mancini, F., Maschio, S. & Pra Baldi, M.
@@ -26,8 +26,8 @@
     modelli"
   venue: il Mulino, Manuali, 320 pp. ISBN 978-88-15-39347-0.
   type: Textbook
-  url: ""
-  link_label: DOI
+  url: https://www.mulino.it/isbn/9788815393470
+  link_label: Link
 - year: "2026"
   authors: Brendel, E., Ferrari, F. & Mancini, F.
   title: "Logical Abductivism: Challenges and Prospects"
@@ -77,23 +77,23 @@
   title: "Eserciziario di logica: insiemi, metodi dimostrativi, logica proposizionale"
   venue: il Mulino, Manuali, 224 pp. ISBN 978-88-15-38965-7.
   type: Textbook
-  url: ""
-  link_label: DOI
+  url: https://www.mulino.it/isbn/9788815389657
+  link_label: Link
 - year: "2023"
   authors: Mancini, F.
   title: "Gluons, Rejection, and Other Dialetheic Issues: New Perspectives"
   venue: Padova University Press, Rationes 17, 292 pp. ISBN 978-88-6938-356-4.
   type: Monograph
-  url: ""
-  link_label: DOI
+  url: https://www.padovauniversitypress.it/en/publications/9788869383564
+  link_label: Link
 - year: "2023"
   authors: Carrara, M., Mancini, F. & Zhu, W.
   title: A PWK-Style Argumentation Framework and Expansion
   venue: "Journal of Applied Logics: The IfCoLog Journal of Logics and Their Applications,
     10(3), 485–509."
   type: Journal article
-  url: ""
-  link_label: DOI
+  url: https://www.collegepublications.co.uk/downloads/ifcolog00059.pdf
+  link_label: Link
 - year: "2023"
   authors: Carrara, M., Mancini, F., Xu, D. & Zhu, W.
   title: TGTS Based Argumentation
@@ -123,8 +123,8 @@
   title: "Sul dialeteismo: lezioni padovane di Graham Priest ed altri saggi sul dialeteismo"
   venue: Padova University Press, Rationes, 268 pp. ISBN 978-88-6938-263-5.
   type: Edited volume
-  url: ""
-  link_label: DOI
+  url: https://www.padovauniversitypress.it/it/publications/9788869382635
+  link_label: Link
 - year: "2021"
   authors: Carrara, M., Mancini, F. & Smid, J.
   title: On the Overlap Between Everything and Nothing
@@ -144,8 +144,8 @@
   title: Meghetologia
   venue: APhEx, 21, 1–49.
   type: Journal article
-  url: ""
-  link_label: DOI
+  url: https://www.aphex.it/meghetologia/
+  link_label: Link
 - year: "2020"
   authors: Mancini, F.
   title: "Review of Graham Priest, The Fifth Corner of Four: An Essay on Buddhist
