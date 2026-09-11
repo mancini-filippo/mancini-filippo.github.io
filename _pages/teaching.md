@@ -25,11 +25,11 @@ nav_order: 3
   </div>
   <div class="teaching-cv-entry">
     <dt><span>AY 2025/26</span><span>AY 2024/25</span><span>AY 2023/24</span></dt>
-    <dd><strong>Adjunct Lecturer</strong> for <strong>History and Philosophy of Science</strong> at the University of Padua: a 40-hour course for students in the Master’s degree programme in Rehabilitation Sciences for Health Professions, Department of Cardiac, Thoracic and Vascular Sciences and Public Health (DSCTV).</dd>
+    <dd><strong>Lecturer</strong> for <strong>History and Philosophy of Science</strong> at the University of Padua: a 40-hour course for students in the Master’s degree programme in Rehabilitation Sciences for Health Professions, Department of Cardiac, Thoracic and Vascular Sciences and Public Health (DSCTV).</dd>
   </div>
   <div class="teaching-cv-entry">
     <dt><span>AY 2025/26</span></dt>
-    <dd><strong>Adjunct Lecturer</strong> for <strong>Philosophy of Language</strong> at the University of Padua: a 30-hour course for students in the Master’s degree programme in Rehabilitation Sciences for Health Professions, DSCTV Department.</dd>
+    <dd><strong>Lecturer</strong> for <strong>Philosophy of Language</strong> at the University of Padua: a 30-hour course for students in the Master’s degree programme in Rehabilitation Sciences for Health Professions, DSCTV Department.</dd>
   </div>
   <div class="teaching-cv-entry">
     <dt><span>AY 2026/27</span><span>AY 2025/26</span><span>AY 2024/25</span></dt>

@@ -32,7 +32,7 @@ I also teach philosophy, logic, and critical thinking, and serve as Treasurer an
 
 <div class="social">
   <div class="contact-icons">
-    <a href="mailto:filippo.mancini@iusspavia.it" title="Email" aria-label="Email Filippo Mancini"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
-    <a href="https://philpeople.org/profiles/filippo-mancini" title="PhilPeople" aria-label="Filippo Mancini on PhilPeople"><i class="ai ai-philpapers" aria-hidden="true"></i></a>
+    <a href="mailto:filippo.mancini@iusspavia.it" title="Email" aria-label="Email Filippo Mancini"><i class="fa-solid fa-envelope" style="font-size: 2rem;" aria-hidden="true"></i></a>
+    <a href="https://philpeople.org/profiles/filippo-mancini" title="PhilPeople" aria-label="Filippo Mancini on PhilPeople"><i class="ai ai-philpapers" style="font-size: 2rem;" aria-hidden="true"></i></a>
   </div>
 </div>
