@@ -77,6 +77,6 @@ nav_order: 3
 
 ## Upcoming teaching — AY 2026/27
 
-- **Topics in Mathematical Logic** — A 25-hour course in the *Corso Ordinario* programme for students at the School of Advanced Studies IUSS Pavia.
+- **Topics in Mathematical Logic** — A 25-hour course (Corso Ordinario) for students at the School of Advanced Studies IUSS Pavia.
 - **Epistemology, Logic and Informal Reasoning** — University of Pavia. Also taught in AY 2025/26.
 - **Ethics, Technology and Philosophy** — Doctoral course at the School of Advanced Studies IUSS Pavia. Also taught in AY 2025/26.
