@@ -8,7 +8,7 @@ description: Filippo Mancini — Assistant Professor at IUSS Pavia. Logic, philo
 footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 keywords: Filippo Mancini, philosophy, logic, metaphysics, decision theory, IUSS Pavia
 lang: en
-icon: ∴
+icon: favicon-fm.svg
 apple_touch_icon: null
 url: https://filippo-mancini-academic.russet-haven-9518.chatgpt.site
 baseurl: ""

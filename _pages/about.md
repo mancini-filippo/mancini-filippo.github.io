@@ -27,11 +27,10 @@ I have taught a range of courses, including logic, epistemology, history and phi
 
 Beyond research and teaching, I enjoy reading, travelling, walking in the woods, and solving puzzles. I am also interested in Eastern philosophies, especially Buddhism.
 
-Feel free to browse these pages for more details about my research, teaching, and ongoing projects.
-
-> *“The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function”*
->
-> F. Scott Fitzgerald, *The Crack-Up*
+<blockquote style="font-size: 1em; line-height: inherit; border-left: 3px solid #005bb5; padding-left: 1rem;">
+  <p style="font-size: inherit; line-height: inherit;"><em>“The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function”</em></p>
+  <p style="font-size: inherit; line-height: inherit;">F. Scott Fitzgerald, <em>The Crack-Up</em></p>
+</blockquote>
 
 [Publications]({{ '/publications/' | relative_url }}) · [Curriculum vitae]({{ '/cv/' | relative_url }})
 

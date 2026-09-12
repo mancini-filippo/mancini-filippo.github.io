@@ -73,3 +73,10 @@ nav_order: 3
 - **2022** — _Logic: From Zero to Gödel_: teacher training and workshops on cognitive biases, Liceo Statale Giustina Renier, Belluno.
 - **2022** — _Belief Polarisation: A Focus on the Vaccination Campaign_: continuing medical education, Provincial Order of Physicians and Dentists of Padua.
 - **2021** — Designed, recorded, and edited eight video lectures on propositional and first-order logic.
+
+
+## Upcoming teaching — AY 2026/27
+
+- **Topics in Mathematical Logic** — A 25-hour course in the *Corso Ordinario* programme for students at the School of Advanced Studies IUSS Pavia.
+- **Epistemology, Logic and Informal Reasoning** — University of Pavia. Also taught in AY 2025/26.
+- **Ethics, Technology and Philosophy** — Doctoral course at the School of Advanced Studies IUSS Pavia. Also taught in AY 2025/26.
