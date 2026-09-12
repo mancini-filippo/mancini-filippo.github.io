@@ -17,13 +17,21 @@ latest_posts:
   enabled: false
 ---
 
-I am a **Fixed-term Assistant Professor (RTD-A)** at the [School of Advanced Studies IUSS Pavia](https://www.iusspavia.it/), where I work on the FIS-funded project _Severe Uncertainty: Decisions, Evidence and Probability_ (DeEP), led by Luca Zanetti.
+I am a **Fixed-term Assistant Professor (RTD-A)** at the [School of Advanced Studies IUSS Pavia](https://www.iusspavia.it/), where I work on the FIS-funded project _Severe Uncertainty: Decisions, Evidence and Probability_ (DeEP).
 
-My research spans **logic and the philosophy of logic, metaphysics, and decision theory**. I work on logical abductivism, non-classical logics and dialetheism, argumentation, and questions about time and uncertainty.
+My research spans **logic and the philosophy of logic, metaphysics, and decision theory**.
 
 Before joining IUSS Pavia in October 2025, I held research positions at the University of Eastern Piedmont, the University of Bonn, and the University of Padua. I completed my PhD in Philosophy at Padua, supervised by Massimiliano Carrara, and visited the City University of New York to work with Graham Priest. My earlier studies were in physics, astrophysics, and cosmology.
 
-I also teach philosophy, logic, and critical thinking, and serve as Treasurer and a member of the Scientific Committee of the Association for Analytic Metaphysics in the Italian-Speaking World (AMAMI).
+I have taught a range of courses, including logic, epistemology, history and philosophy of science, and philosophy of language. I also serve as Treasurer and a member of the Scientific Committee of the Association for Analytic Metaphysics in the Italian-Speaking World (AMAMI).
+
+Beyond research and teaching, I enjoy reading, travelling, walking in the woods, and solving puzzles. I am also interested in Eastern philosophies, especially Buddhism.
+
+Feel free to browse these pages for more details about my research, teaching, and ongoing projects.
+
+> *“The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function”*
+>
+> F. Scott Fitzgerald, *The Crack-Up*
 
 [Publications]({{ '/publications/' | relative_url }}) · [Curriculum vitae]({{ '/cv/' | relative_url }})
 

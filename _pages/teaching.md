@@ -21,7 +21,7 @@ nav_order: 3
   </div>
   <div class="teaching-cv-entry">
     <dt><span>AY 2025/26</span></dt>
-    <dd><strong>Adjunct Lecturer</strong> (with Professor Massimiliano Carrara) of <strong>Argumentation, Critical Thinking and Informal Logic</strong> at the University of Padua: a 42-hour course (21 hours taught by me) for students in the Classics and Modern Literature degree programmes, Department of Linguistic and Literary Studies (DISLL).</dd>
+    <dd><strong>Lecturer</strong> (with Professor Massimiliano Carrara) of <strong>Argumentation, Critical Thinking and Informal Logic</strong> at the University of Padua: a 42-hour course (21 hours taught by me) for students in the Classics and Modern Literature degree programmes, Department of Linguistic and Literary Studies (DISLL).</dd>
   </div>
   <div class="teaching-cv-entry">
     <dt><span>AY 2025/26</span><span>AY 2024/25</span><span>AY 2023/24</span></dt>
