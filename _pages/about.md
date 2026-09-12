@@ -7,7 +7,7 @@ nav_order: 0
 subtitle: "Assistant Professor of Philosophy \xB7 IUSS Pavia"
 profile:
   align: right
-  image: Filippo_Mancini_BN.jpeg
+  image: Filippo_Mancini_Profile.jpeg
   image_circular: false
 selected_papers: false
 social: false
