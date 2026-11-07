@@ -13,6 +13,13 @@
   type: Conference proceedings
   url: ""
   link_label: DOI
+- year: Forthcoming
+  authors: De Florio, C., Frigerio, A. & Mancini, F.
+  title: A Branching-Time Framework for Modelling De Minimis Risks
+  venue: Synthese. Forthcoming.
+  type: Journal article
+  url: ""
+  link_label: DOI
 - year: "2026"
   authors: De Florio, C., Frigerio, A. & Mancini, F.
   title: Modeling Radical Indeterminacy in Branching Time Semantics
