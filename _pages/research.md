@@ -18,11 +18,6 @@ Zanetti, L., Mancini, F. & Coraci, D.
 In S. O. Hansson and T. Grüne-Yanoff (eds.), _Comprehensive Philosophy of Science_. Elsevier.  
 Chapter in edited book · Under review
 
-**A Branching-Time Framework for Modelling De Minimis Risks**  
-De Florio, C., Frigerio, A. & Mancini, F.  
-_Synthese._  
-Journal article · Under review
-
 **Banach-Tarski and the Material World**  
 Giraldo, J. R. & Mancini, F.  
 Journal article · Under review
